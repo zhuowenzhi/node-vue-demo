@@ -1,4 +1,4 @@
-# (原项目地址)[!https://github.com/wxs77577/node-vue-moba]
+# 原项目地址[!https://github.com/wxs77577/node-vue-moba]
 ## 一、 入门
 1. 项目介绍
 1. 工具安装和环境搭建(nodejs,npm,mongodb)
